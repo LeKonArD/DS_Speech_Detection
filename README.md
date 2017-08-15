@@ -9,4 +9,4 @@ your results.
 
 
 ![alttext
-(https://raw.githubusercontent.com/LeKonArD/DS_Speech_Annotation/master/edit/output/visuals/frequencyofdirectspeech_date.png)
+(https://raw.githubusercontent.com/LeKonArD/DS_Speech_Annotation/master/blob/output/visuals/frequencyofdirectspeech_date.png)
