@@ -8,4 +8,5 @@ your results.
 
 
 
-![alt text]("https://raw.githubusercontent.com/LeKonArD/DS_Speech_Annotation/master/output/visuals/frequency of direct speech_date.png")
+![alttext
+(https://raw.githubusercontent.com/LeKonArD/DS_Speech_Annotation/master/edit/output/visuals/frequencyofdirectspeech_date.png)
