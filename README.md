@@ -8,4 +8,4 @@ your results.
 
 
 
-![alttext(https://raw.githubusercontent.com/LeKonArD/DS_Speech_Annotation/master/output/visuals/frequencyofdirectspeech_date.png)
+![Alt text](output/visuals/frequencyofdirectspeechdate.png.jpg?raw=true "Title")
