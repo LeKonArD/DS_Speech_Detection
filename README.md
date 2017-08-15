@@ -8,4 +8,4 @@ your results.
 
 
 
-![Alt text](/output/visuals/frequencyofdirectspeechdate.png.jpg?raw=true)
+![Alt text](/master/output/visuals/frequencyofdirectspeechdate.png.jpg?raw=true "title")
